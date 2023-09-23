@@ -8,8 +8,10 @@ html, body{
 }
 
 body{
+    margin-top: 200px;
     text-align: center;
-    font-size: 31px;
+    font-size: 70px;
+    font-weight: bold;
 }
 
 h1{
@@ -22,8 +24,9 @@ button{
     color: #fff;
     border-radius: 5px;
     font-weight: bold;
-    width: 200px;
+    width: 350px;
     margin-bottom: 5px;
+    font-size: 50px;
 }
 #increment-btn{
     background: darkred;
